@@ -1,0 +1,1 @@
+This repo is all about testing for github push from local to remote repository. This contains one of the exercises from my pathway course, computer science introduction. This is purely educational and student's testing. 
